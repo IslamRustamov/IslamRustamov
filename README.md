@@ -1,12 +1,16 @@
-## Ahoj, name is Islam
+# Ahoj, name is Islam
 
 I am a software engineer who works primarily (as of 03.01.2025) with React Native
 
 I am absolutely not limited by JavaScript and React-ish environment, so I work/deal/have fun with lots of stuff
 
-I also write articles on medium, you can check em out here https://medium.com/@islamrustamov
+### Some of my social stuff
 
-Also I make videogames from time to time, you can play them here https://islamrustamov.itch.io/
+* [Medium](https://medium.com/@islamrustamov) - writing articles about different programming-related stuff
+* [Itch](https://islamrustamov.itch.io/) - making videogames with GameMaker and Godot, you can play some stuff I made a while ago
+* [Twitch](https://www.twitch.tv/islamrustamov) - I sometimes stream how I make videogames so you might have a chance of catching me actually doing it
+* [Twitter](https://x.com/SamGhost98) - posting my game development progress here
+* [Discord](https://discord.gg/xaxQpqgg) - my personal discord server (which is nearly empty)
 
 And I also participated in a Russian-wide conference as a speaker, you can check out my speech here:
 

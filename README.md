@@ -22,3 +22,7 @@ And I also participated in a Russian-wide conference as a speaker, you can check
 ***
 
 I always check my mail so hit me up at islamrustamov@rambler.ru
+
+<p align="center" width="100%">
+    <img src="https://github.com/user-attachments/assets/6e2c6d7a-4bac-473b-b4a0-606caddf8223">
+</p>

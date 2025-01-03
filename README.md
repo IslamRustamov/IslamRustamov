@@ -18,10 +18,15 @@ And I also participated in a Russian-wide conference as a speaker, you can check
 
 ***
 
-# Some of my personal projects
+# A bunch of my personal projects
 
 * [react-native-rich-text-input](https://www.npmjs.com/package/react-native-rich-text-input) - NPM library that provides you with a component that tries to copy Telegram's text input with rich text abilities
 * [react-native-photo-compressor](https://www.npmjs.com/package/react-native-photo-compressor) - NPM library that allows you to compress photos with ease (not maintained anymore)
+
+# Couple of my favourite articles (written by me of course)
+
+* [How to convert and upload videos in React Native](https://medium.com/p/7c2440bcdc1b) - most viewed/read article
+* [Obj-C Turbo Module vs C++ Turbo Module vs Flutter Platform Channel](https://medium.com/p/e610a344ec92) - personally my favourite article
 
 ***
 

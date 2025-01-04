@@ -1,4 +1,4 @@
-# Ahoj, name is Islam
+# Ahoj
 
 I am a software engineer who works primarily (as of 03.01.2025) with React Native
 

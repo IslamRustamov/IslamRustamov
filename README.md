@@ -28,6 +28,12 @@ And I also participated in a Russian-wide conference as a speaker, you can check
 * [How to convert and upload videos in React Native](https://medium.com/p/7c2440bcdc1b) - most viewed/read article
 * [Obj-C Turbo Module vs C++ Turbo Module vs Flutter Platform Channel](https://medium.com/p/e610a344ec92) - personally my favourite article
 
+# Smeefty of opensource contributions
+
+* [Rewrite of some JS functions into C++ for react-native-clusterer](https://github.com/JiriHoffmann/react-native-clusterer/pull/51)
+* [Ability to cache HLS videos on Android for react-native-video](https://github.com/TheWidlarzGroup/react-native-video/pull/4272)
+* [Fix of unnecessary bottom sheet snapping for @gorhom/bottom-sheet](https://github.com/gorhom/react-native-bottom-sheet/pull/2073)
+
 ***
 
 I always check my mail so hit me up at islamrustamov@rambler.ru

@@ -33,6 +33,7 @@ And I also participated in a Russian-wide conference as a speaker, you can check
 * [Rewrite of some JS functions into C++ for react-native-clusterer](https://github.com/JiriHoffmann/react-native-clusterer/pull/51)
 * [Ability to cache HLS videos on Android for react-native-video](https://github.com/TheWidlarzGroup/react-native-video/pull/4272)
 * [Fix of unnecessary bottom sheet snapping for @gorhom/bottom-sheet](https://github.com/gorhom/react-native-bottom-sheet/pull/2073)
+* [React Native's viewabilityConfig modification](https://github.com/facebook/react-native/pull/50178)
 
 ***
 

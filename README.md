@@ -34,6 +34,7 @@ And I also participated in a Russian-wide conference as a speaker, you can check
 * [Ability to cache HLS videos on Android for react-native-video](https://github.com/TheWidlarzGroup/react-native-video/pull/4272)
 * [Fix of unnecessary bottom sheet snapping for @gorhom/bottom-sheet](https://github.com/gorhom/react-native-bottom-sheet/pull/2073)
 * [React Native's viewabilityConfig modification](https://github.com/facebook/react-native/pull/50178)
+* [Help with Yandex Maps Location Manager setup in Objective-C](https://github.com/volga-volga/react-native-yamap/issues/295#issuecomment-3527602147)
 
 ***
 

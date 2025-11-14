@@ -35,6 +35,7 @@ And I also participated in a Russian-wide conference as a speaker, you can check
 * [Fix of unnecessary bottom sheet snapping for @gorhom/bottom-sheet](https://github.com/gorhom/react-native-bottom-sheet/pull/2073)
 * [React Native's viewabilityConfig modification](https://github.com/facebook/react-native/pull/50178)
 * [Help with Yandex Maps Location Manager setup in Objective-C](https://github.com/volga-volga/react-native-yamap/issues/295#issuecomment-3527602147)
+* [Bottom Sheet one snap point per swipe feature](https://github.com/gorhom/react-native-bottom-sheet/pull/2571)
 
 ***
 

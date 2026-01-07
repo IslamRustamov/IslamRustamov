@@ -10,7 +10,7 @@ I am absolutely not limited by JavaScript and React-ish environment, so I work/d
 * [Itch](https://islamrustamov.itch.io/) - making videogames with GameMaker (not anymore) and Godot (currently)
 * [Twitch](https://www.twitch.tv/islamrustamov) - I sometimes stream how I make videogames so you might have a chance of catching me actually doing it
 * [Twitter](https://x.com/SamGhost98) - posting my game development progress here
-* [Discord](https://discord.gg/xaxQpqgg) - my personal discord server (which is nearly empty)
+* [Discord](https://discord.gg/xaxQpqgg) - my personal discord server
 
 And I also participated in a Russian-wide conference as a speaker, you can check out my speech here:
 
